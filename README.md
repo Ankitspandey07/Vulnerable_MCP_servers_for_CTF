@@ -54,10 +54,3 @@ This repository contains **intentionally vulnerable** implementations of Model C
 
 
 This lab repository exists to support security research and hands-on training for pentesters, who are on their journey to becoming AI Red Teamers, around MCP server vulnerabilities and the risks of integrating untrusted tools and untrusted content into AI agent workflows.
-
-
-## Links to Appsecco Resources
-
-- [Appsecco LinkedIn](https://www.linkedin.com/company/appsecco/)
-- [Appsecco YouTube](https://www.youtube.com/@Appsecco)
-- [Appsecco Website](https://appsecco.com)
