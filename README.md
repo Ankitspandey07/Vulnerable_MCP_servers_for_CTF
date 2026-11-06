@@ -52,21 +52,9 @@ This repository contains **intentionally vulnerable** implementations of Model C
 - **Wikipedia (remote, Streamable HTTP)**: Wikipedia search/retrieval over HTTP; returns untrusted public content without sanitization or instruction/data separation (remote-content prompt injection risk).
   - README: [`vulnerable-mcp-server-wikipedia-http-streamable/README.md`](vulnerable-mcp-server-wikipedia-http-streamable/README.md)
 
-## About Appsecco
-
-**Appsecco** is a cybersecurity company specializing in product security testing, penetration testing, and security assessments. We hack SaaS products, AI Agents, MCP Servers and cloud/K8s infrastructure like attackers do, focusing on pragmatic, high-signal outcomes for real-world systems.
 
 This lab repository exists to support security research and hands-on training for pentesters, who are on their journey to becoming AI Red Teamers, around MCP server vulnerabilities and the risks of integrating untrusted tools and untrusted content into AI agent workflows.
 
-### Contact
-
-- **Website**: [`https://appsecco.com`](https://appsecco.com)
-- **Email**: [`HackMyProduct@appsecco.com`](mailto:hackmyproduct@appsecco.com)
-- **LinkedIn**: [`https://linkedin.com/company/appsecco`](https://linkedin.com/company/appsecco)
-
-## License
-
-See [`LICENSE`](LICENSE).
 
 ## Links to Appsecco Resources
 
