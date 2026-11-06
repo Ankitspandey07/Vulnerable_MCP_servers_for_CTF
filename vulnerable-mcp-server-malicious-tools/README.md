@@ -99,8 +99,4 @@ Observe that the tool output can include extra “assistant instructions” (ome
 - Tool output is intentionally untrusted/malicious in this lab scenario.
 
 
-## Links to Appsecco Resources
 
-- [Appsecco LinkedIn](https://www.linkedin.com/company/appsecco/)
-- [Appsecco YouTube](https://www.youtube.com/@Appsecco)
-- [Appsecco Website](https://appsecco.com)
